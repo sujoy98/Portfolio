@@ -106,8 +106,7 @@ Each project includes:
 # Connect With Me
 
 LinkedIn  
-[https://linkedin.com/in/yourprofile
-](https://www.linkedin.com/in/sujoy-sarkar98/)
+https://www.linkedin.com/in/sujoy-sarkar98/
 
 Email  
 sujoysarkar951@gmail.com
